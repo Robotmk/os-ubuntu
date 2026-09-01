@@ -66,6 +66,6 @@ Also try the other [OS install targets](https://github.com/elabit/robotmk-starte
 >
 > **This repository is automatically synced from [elabit/robotmk-starter](https://github.com/elabit/robotmk-starter/tree/main/os/ubuntu).**
 > Do not edit files here directly — changes will be overwritten on the next sync.
-> Last sync: [`efe8832`](https://github.com/elabit/robotmk-starter/commit/efe88324e99143d6a57c6554023357a8763b1cb0)
+> Last sync: [`e6e1994`](https://github.com/elabit/robotmk-starter/commit/e6e1994648696a30516b0b388917af712ea9f130)
 
 ---
